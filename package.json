@@ -1,4 +1,4 @@
-{
+/* Hello*/{ 
   "private": true,
   "workspaces": [
     "theme",
